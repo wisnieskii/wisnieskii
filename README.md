@@ -1,8 +1,7 @@
-### Oii! sou Amanda Wisnieski
+###Amanda Wisnieski
 
 📖 Estudando JavaScript
 <p>📧 Contate-me no email: amandapasqualoneisnieski@gmail.com
-<p>👧 Pronouns: ela/dela
 <div align="center">
   <a href="https://github.com/wisnieskii">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wisnieskii&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
