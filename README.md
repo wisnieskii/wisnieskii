@@ -1,6 +1,4 @@
 ###Amanda Wisnieski
-
-📖 Estudando JavaScript
 <p>📧 Contate-me no email: amandapasqualoneisnieski@gmail.com
 <div align="center">
   <a href="https://github.com/wisnieskii">
