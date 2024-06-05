@@ -30,7 +30,7 @@ Eu sou uma estudante de Análise e Desenvolvimento de Sistemas em busca do meu p
   
   ## Conecte-se Comigo
 
-  <a href="https://instagram.com/a.m.a.n.d.ii.t.a/" target="_blank"><img height="50em" src="https://github.com/wisnieskii/wisnieskii/assets/106274579/77447c9b-09a4-4b29-ab3e-a3e2d3110e00"></a>
-  <a href="https://www.linkedin.com/in/amanda-wisnieski-b51072201/" target="_blank"><img height="50em" src="https://github.com/wisnieskii/wisnieskii/assets/106274579/e54fd3e2-f3bc-4976-8178-94b6d2a6d8da"></a> 
+  <a href="https://instagram.com/a.m.a.n.d.ii.t.a/" target="_blank"><img height="20em" src="https://github.com/wisnieskii/wisnieskii/assets/106274579/77447c9b-09a4-4b29-ab3e-a3e2d3110e00"></a>
+  <a href="https://www.linkedin.com/in/amanda-wisnieski-b51072201/" target="_blank"><img height="20em" src="https://github.com/wisnieskii/wisnieskii/assets/106274579/e54fd3e2-f3bc-4976-8178-94b6d2a6d8da"></a> 
  
 </div>
