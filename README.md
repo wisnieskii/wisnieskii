@@ -1,5 +1,6 @@
-<img width=100% botton=50px src="https://github.com/wisnieskii/wisnieskii/assets/106274579/36d23aab-6dfe-4a6c-8ada-2d43a7fc1c46">
-## Amanda Wisnieski 👾
+<img width=100% botton=50px src="https://github.com/wisnieskii/wisnieskii/assets/106274579/38b671d7-a07d-47a8-8753-cadf42fe9c1a">
+
+
 <p>📧 Contate-me no email: amandapasqualoneisnieski@gmail.com
 <div align="center">
   <a href="https://github.com/wisnieskii">
